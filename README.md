@@ -1,55 +1,82 @@
 <div align="center">
 
-# 你好！👋 我是 Jasper Wynn
+<!-- 赛博朋克风格 Header -->
+<a href="https://github.com/Jasper-Wynn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E27&height=250&section=header&text=Jasper%20Wynn&fontSize=70&fontColor=00F0FF&animation=twinkling&fontAlignY=40&desc=Python%20Developer%20|%20Security%20Enthusiast%20|%20DevOps%20Practitioner&descAlignY=70&descAlign=50&descColor=4A90E2" />
+</a>
 
-### Python 开发者 | 安全爱好者 | DevOps 实践者
+<!-- 霓虹打字效果 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=System+Initializing...;Crafting+Cyber+Solutions;Penetration+Testing+Active;Building+DevOps+Arsenal&background=0A0E2700" alt="Typing SVG" />
+</a>
 
 </div>
 
+## 📡 终端响应 // Terminal Info
+
+```shell
+root@jasper-macbook:~# whoami
+Jasper Wynn
+
+root@jasper-macbook:~# cat /status/current_focus.txt
+[+] Role: Python Developer | Security Enthusiast | DevOps Practitioner
+[+] Focus: DevOps Automation & Vulnerability Scanning tools
+[+] Interests: Docker, Kubernetes, Git, Penetration Testing
+
+root@jasper-macbook:~# ./ping_address.sh
+[+] Ping successful. Reach me at: cjwpython@163.com
+```
+
+## 🛰️ 技术雷达 // Tech Radar
+
+**`> Core Architecture`**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,bash,linux,docker,kubernetes,aws,git,vim,nginx&theme=dark" />
+  </a>
+</p>
+
+**`> Security Arsenal`**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Network_Scanner-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
+
 ---
 
-### 🚀 关于我
+## 📊 数据中心 // Analytics
 
-- 🔭 目前正在开发 **DevOps 自动化工具和安全工具**
-- 🛠️ 专注于 **Docker、Kubernetes、Git 等工具的开发和应用**
-- 💬 可以和我聊聊 **Python、安全、DevOps**
-- 📫 邮箱：cjwpython@163.com
-
----
-
-### 🛠️ 技术栈
-
-**编程语言：** Python, Shell, JavaScript
-
-**DevOps 工具：** Docker, Kubernetes, Git, Linux
-
-**安全工具：** Nmap, Metasploit
-
-**云平台：** AWS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasper-Wynn&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasper-Wynn&theme=matrix&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff" alt="GitHub Streak" width="48%"/>
+</p>
 
 ---
 
-### 📌 置顶项目
+## 🚀 核心节点 // Top Projects
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%">
-
-### 🔐 服务弱口令扫描器
-
-基于 Python + Nmap 的服务弱口令爆破工具
-
-[查看项目 →](https://github.com/DeepNoBug/python-nmap-brute-force)
-
+  <div align="center">
+    <h3>🔐 服务弱口令扫描器</h3>
+    <br>
+    <p>基于 Python + Nmap 的服务弱口令爆破工具，支持多种协议扫描</p>
+    <a href="https://github.com/Jasper-Wynn/python-nmap-brute-force">
+      <img src="https://img.shields.io/badge/Execute_Project-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="View Project"/>
+    </a>
+  </div>
 </td>
 <td width="50%">
-
-### 🚢 DevOps 自动化平台
-
-Docker + Git + K8s 自动化部署平台
-
-[查看项目 →](https://github.com/DeepNoBug/devops-platform)
-
+  <div align="center">
+    <h3>🚢 DevOps 自动化平台</h3>
+    <br>
+    <p>深度集成 Docker + Git + K8s，实现自动化的 CI/CD 流水线平台</p>
+    <a href="https://github.com/Jasper-Wynn/devops-platform">
+      <img src="https://img.shields.io/badge/Execute_Project-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="View Project"/>
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -57,7 +84,9 @@ Docker + Git + K8s 自动化部署平台
 ---
 
 <div align="center">
-
-**感谢访问！⭐**
-
+  <i>"Talk is cheap. Show me the shell."</i>
+  <br><br>
+  <a href="mailto:cjwpython@163.com">
+    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-cjwpython@163.com-00FF00?style=for-the-badge&logo=minutemailer&logoColor=black&color=00FF00" alt="Email" />
+  </a>
 </div>
