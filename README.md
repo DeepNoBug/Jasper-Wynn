@@ -12,36 +12,83 @@
 
 </div>
 
-## 📡 终端响应 // Terminal Info
+---
 
-```shell
-root@jasper-macbook:~# whoami
-Jasper Wynn
+## ⚡ 技术核心 // Tech Core
 
-root@jasper-macbook:~# cat /status/current_focus.txt
-[+] Role: Python Developer | Security Enthusiast | DevOps Practitioner
-[+] Focus: DevOps Automation & Vulnerability Scanning tools
-[+] Interests: Docker, Kubernetes, Git, Penetration Testing
+### 💻 核心语言
 
-root@jasper-macbook:~# ./ping_address.sh
-[+] Ping successful. Reach me at: cjwpython@163.com
-```
+<table>
+<tr>
+  <td width="100">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+  </td>
+  <td>
+    <b>Python</b><br>
+    <sub>脚本开发、自动化、安全工具</sub>
+  </td>
+  <td>
+    <img src="https://progress-bar.dev/95?title=Python&width=150&color=00F0FF&bcolor=0A0E27" />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  </td>
+  <td>
+    <b>JavaScript</b><br>
+    <sub>前端开发、脚本编写</sub>
+  </td>
+  <td>
+    <img src="https://progress-bar.dev/75?title=JavaScript&width=150&color=4A90E2&bcolor=0A0E27" />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
+  </td>
+  <td>
+    <b>Bash/Shell</b><br>
+    <sub>系统管理、自动化脚本</sub>
+  </td>
+  <td>
+    <img src="https://progress-bar.dev/70?title=Bash&width=150&color=00F0FF&bcolor=0A0E27" />
+  </td>
+</tr>
+</table>
 
-## 🛰️ 技术雷达 // Tech Radar
+### 🛠️ DevOps 工具链
 
-**`> Core Architecture`**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,bash,linux,docker,kubernetes,aws,git,vim,nginx&theme=dark" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,aws,nginx,jenkins,terraform&theme=dark" />
 </p>
 
-**`> Security Arsenal`**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Network_Scanner-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</p>
+### 🔓 安全武器库
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Nmap-v7.94-00F0FF?style=for-the-badge&logo=nmap&logoColor=0A0E27" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Metasploit-Framework-4A90E2?style=for-the-badge&logo=metasploit&logoColor=0A0E27" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Burp_Suite-Pro-7B2FFF?style=for-the-badge&logo=burpsuite&logoColor=0A0E27" />
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Wireshark-Network-00F0FF?style=for-the-badge&logo=wireshark&logoColor=0A0E27" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/SQLmap-Injection-4A90E2?style=for-the-badge&logoColor=0A0E27" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Kali_Linux-Pentest-7B2FFF?style=for-the-badge&logo=kali-linux&logoColor=0A0E27" />
+  </td>
+</tr>
+</table>
 
 ---
 
