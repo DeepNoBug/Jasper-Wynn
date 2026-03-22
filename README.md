@@ -95,11 +95,17 @@
 ## 📊 数据中心 // Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasper-Wynn&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasper-Wynn&theme=matrix&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff" alt="GitHub Streak" width="48%"/>
+  <!-- GitHub Stats - 自定义赛博蓝主题 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasper-Wynn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0E27&title_color=00F0FF&icon_color=4A90E2&text_color=ffffff&border_color=00F0FF" alt="GitHub Stats" width="49%"/>
+
+  <!-- Streak Stats - 蓝青配色 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasper-Wynn&theme=github_dark&hide_border=true&background=0A0E27&ring=00F0FF&fire=4A90E2&currStreakNum=ffffff&sideNums=00F0FF&sideLabels=4A90E2&dates=7B2FFF" alt="GitHub Streak" width="49%"/>
 </p>
 
----
+<p align="center">
+  <!-- 贡献热力图 - 青蓝渐变 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jasper-Wynn&theme=github-dark&bg_color=0A0E27&color=00F0FF&line=4A90E2&point=7B2FFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
+</p>
 
 ---
 
