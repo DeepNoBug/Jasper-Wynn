@@ -1,0 +1,6 @@
+# Documentation
+docs/
+
+# Backup files
+*.backup
+README.md.backup
